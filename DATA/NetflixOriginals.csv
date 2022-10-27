@@ -1,4 +1,4 @@
-Name,Genre,Premiere,Runtime,Rating,Language
+Title,Genre,Premiere,Runtime,IMDB Score,Language
 Enter the Anime,Documentary,"August 5, 2019",58,2.5,English/Japanese
 Dark Forces,Thriller,"August 21, 2020",81,2.6,Spanish
 The App,Science fiction/Drama,"December 26, 2019",79,2.6,Italian
@@ -160,7 +160,7 @@ The Woman in the Window,Psychological thriller,"May 14, 2021",100,5.7,English
 The Wrong Missy,Comedy,"May 13, 2020",90,5.7,English
 Velvet Buzzsaw,Thriller,"February 1, 2019",112,5.7,English
 Yes Day,Comedy,"March 12, 2021",86,5.7,English
-15-Aug,Comedy-drama,"March 29, 2019",124,5.8,Marathi
+15 August,Comedy-drama,"March 29, 2019",124,5.8,Marathi
 A California Christmas,Romantic comedy,"December 14, 2020",107,5.8,English
 A Christmas Prince,Romantic comedy,"November 17, 2017",92,5.8,English
 All Day and a Night,Drama,"May 1, 2020",121,5.8,English
@@ -388,7 +388,7 @@ Tallulah,Comedy-drama,"July 29, 2016",111,6.7,English
 The Old Guard,Superhero/Action,"July 10, 2020",124,6.7,English
 Tony Robbins: I Am Not Your Guru,Documentary,July 15. 2016,116,6.7,English
 Upstarts,Drama,"October 18, 2019",112,6.7,Hindi
-22-Jul,Drama,"October 10, 2018",144,6.8,English
+22 July,Drama,"October 10, 2018",144,6.8,English
 7 años,Drama,"October 28, 2016",76,6.8,Spanish
 A Futile and Stupid Gesture,Biographical/Comedy,"January 26, 2018",101,6.8,English
 A Life of Speed: The Juan Manuel Fangio Story,Documentary,"March 20, 2020",92,6.8,Spanish
